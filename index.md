@@ -1,2 +1,2 @@
-## Page under construction!
+## Page under construction! Visit back soon.
 
