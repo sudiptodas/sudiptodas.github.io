@@ -1,3 +1,5 @@
+[[Home]](index.html) | [[Publications]](publications.html) | [[Service]](service.html) | [[Awards]](awards.html)
+
 # Awards and Recognition
 
 * Distinguished PC Member, ACM SIGMOD 2019.
