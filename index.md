@@ -1,5 +1,6 @@
-# Home page
-## Bio
+[[Home]](index.html) | [[Publications]](publications.html) | [[Service]](service.html) | [[Awards]](awards.html)
+
+# Bio
 Sudipto Das is a Principal Engineer at [Amazon Web Services (AWS)](https://aws.amazon.com/). He works on [Amazon Timestream](https://aws.amazon.com/timestream/) a fast, scalable, fully-managed, serverless time series database offering in the AWS Database Services umbrella.
 
 Sudipto is an engineering and research leader known for his work on scalable database management systems for cloud platforms. His expertise spans the broad areas of distributed query processing, efficient resource management for cloud database infrastructures, automated tuning (in particular automated indexing) of relational database-as-a-service, performance isolation, and scale-out transaction processing systems leveraging modern hardware paradigms.
@@ -12,9 +13,8 @@ Sudipto is well-known for his expertise in database systems. He regularly serves
 
 Sudipto is originally from the “City of Joy” Kolkata in India. His undergraduate study was in Jadavpur University, Kolkata where he completed my Bachelor of Engineering from the Department of Computer Science and Engineering.
 
-## Additional Links
+# Additional Links
 - [Twitter](https://twitter.com/sudiptdas?lang=en)
 - [LinkedIn](https://www.linkedin.com/in/sudiptodas/)
 - [Google Scholar](https://scholar.google.com/citations?user=LKgo-jcAAAAJ&hl=en)
 - [DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Sudipto)
-
