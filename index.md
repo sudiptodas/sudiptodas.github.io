@@ -1,5 +1,7 @@
 [[Home]](index.html) | [[Publications]](publications.html) | [[Service]](service.html) | [[Awards]](awards.html)
 
+![Portrait](images/Sudipto_Das_Portrait_Small.jpg)
+
 # Bio
 Sudipto Das is a Principal Engineer at [Amazon Web Services (AWS)](https://aws.amazon.com/). He works on [Amazon Timestream](https://aws.amazon.com/timestream/) a fast, scalable, fully-managed, serverless time series database offering in the AWS Database Services umbrella.
 
