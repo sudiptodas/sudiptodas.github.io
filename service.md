@@ -13,10 +13,10 @@
 ## Program Committees
 
 ### 2020
-* VLDB 2020/PVLDB Vol. 13 Research
-* SIGMOD 2020
-* SOCC 2020
-* CIDR 2020
+* [VLDB 2020](https://vldb2020.org/pvldb.html)/PVLDB Vol. 13 Research.
+* [SIGMOD 2020](http://sigmod2020.org/org_sigmod_pc.shtml).
+* [SOCC 2020](https://acmsocc.github.io/2019/program-committee.html)
+* [CIDR 2020](http://cidrdb.org/cidr2020/org.html)
 
 ### 2019
 * [SIGMOD 2019 Research](http://sigmod2019.org/sigmodpc)

@@ -2,7 +2,8 @@
 
 # Selected Publications
 
-Full list of publications available at: [DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Sudipto)|[Google Scholar](https://scholar.google.com/citations?user=LKgo-jcAAAAJ&hl=en).
+Full list of publications available at: 
+[DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Sudipto)|[Google Scholar](https://scholar.google.com/citations?user=LKgo-jcAAAAJ&hl=en).
 
 ## 2019
 
