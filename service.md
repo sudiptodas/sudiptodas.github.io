@@ -1,4 +1,4 @@
-[[Home]](index.html) | [[Publications]](publications.html) | [[Service]](service.html) | [[Awards]](awards.html)
+[[Home]](index.html) | [[Publications]](publications.html) | [[Patents]](patents.html) | [[Service]](service.html) | [[Awards]](awards.html)
 
 # Professional Service
 
@@ -11,6 +11,13 @@
 * Springer International Journal of [Distributed and Parallel Databases](http://www.springer.com/computer/database+management+&+information+retrieval/journal/10619?detailsPage=editorialBoard), Associate Editor
 
 ## Program Committees
+
+### 2022
+* [SIGMOD 2022](http://2022.sigmod.org) Research
+
+### 2021
+* [SIGMOD 2021](https://2021.sigmod.org/org_sigmod_pc.shtml) Research
+* [ICDE 2021](https://icde2021.gr/industry-and-applications-track-committee/) Industry
 
 ### 2020
 * [VLDB 2020](https://vldb2020.org/pvldb.html)/PVLDB Vol. 13 Research.
