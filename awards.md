@@ -1,4 +1,4 @@
-[[Home]](index.html) | [[Publications]](publications.html) | [[Service]](service.html) | [[Awards]](awards.html)
+[[Home]](index.html) | [[Publications]](publications.html) | [[Patents]](patents.html) | [[Service]](service.html) | [[Awards]](awards.html)
 
 # Awards and Recognition
 
