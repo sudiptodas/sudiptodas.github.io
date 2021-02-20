@@ -1,9 +1,13 @@
-[[Home]](index.html) | [[Publications]](publications.html) | [[Service]](service.html) | [[Awards]](awards.html)
+[[Home]](index.html) | [[Publications]](publications.html) | [[Patents]](patents.html) | [[Service]](service.html) | [[Awards]](awards.html)
 
 # Selected Publications
 
 **Full list of publications available at:** 
-[DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Sudipto)|[Google Scholar](https://scholar.google.com/citations?user=LKgo-jcAAAAJ&hl=en).
+[DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Sudipto)|[Google Scholar](https://scholar.google.com/citations?user=LKgo-jcAAAAJ&hl=en). 
+
+## 2020
+
+* Lin Ma, Bailu Ding, Sudipto Das, Adith Swaminathan: [**Active Learning for ML Enhanced Database Systems**](https://doi.org/10.1145/3318464.3389768) **SIGMOD** Conference 2020.
 
 ## 2019
 
