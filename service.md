@@ -3,9 +3,11 @@
 # Professional Service
 
 ## Conference/Workshop Organization
-* [Workshop on Cloud Data Management](http://www.cs.sdu.edu.cn/CloudDM2015/) (CloudDM) 2015, Co-Chair.
+* [ACM International Conference on Management of Data](https://2023.sigmod.org/) (SIGMOD) 2023, General co-chair.
+* [Workshop on Cloud Data Management](http://www.cs.sdu.edu.cn/CloudDM2015/) (CloudDM) 2015, co-chair.
 * [21st International Conference on Management of Data](http://gator3080.hostgator.com/~sigdata/comad2016/) (COMAD) 2016, Industry Chair.
 * International Conference on Information and Knowledge Management (CIKM) 2017 Senior PC.
+* [Northwest Database Society Annual Meeting](https://sites.google.com/view/pnw-db-society-event/home) (NWDS) 2020, co-chair.
 
 ## Journal Editorial Boards
 * Springer International Journal of [Distributed and Parallel Databases](http://www.springer.com/computer/database+management+&+information+retrieval/journal/10619?detailsPage=editorialBoard), Associate Editor
@@ -13,7 +15,7 @@
 ## Program Committees
 
 ### 2022
-* [SIGMOD 2022](http://2022.sigmod.org) Research
+* [SIGMOD 2022](http://2022.sigmod.org) Research and Demo tracks
 
 ### 2021
 * [SIGMOD 2021](https://2021.sigmod.org/org_sigmod_pc.shtml) Research
