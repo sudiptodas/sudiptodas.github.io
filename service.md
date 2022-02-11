@@ -16,6 +16,7 @@
 
 ### 2022
 * [SIGMOD 2022](http://2022.sigmod.org) Research and Demo tracks
+* [VLDB 2022](https://vldb.org/2022/?call-for-industrial-track) Industry track
 
 ### 2021
 * [SIGMOD 2021](https://2021.sigmod.org/org_sigmod_pc.shtml) Research
