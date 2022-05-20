@@ -21,5 +21,4 @@
 
 ## Filed
 
-1. Database index determination and validation. US Patent App. 16/247,488
-2. Partitioning optimistic concurrency control and logging. US Patent App. 13/494,876
+1. Partitioning optimistic concurrency control and logging. US Patent App. 13/494,876
