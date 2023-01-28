@@ -14,6 +14,13 @@
 
 ## Program Committees
 
+### 2024
+* [SIGMOD 2024](https://2024.sigmod.org/org_sigmod_pc.shtml) Research track
+
+### 2023
+* [VLDB 2023](http://vldb.org/pvldb/volumes/16/review-board) Research track
+* [ICDE 2023](https://icde2023.ics.uci.edu/industry-track-program-committee/) Industry track
+
 ### 2022
 * [SIGMOD 2022](http://2022.sigmod.org) Research and Demo tracks
 * [VLDB 2022](https://vldb.org/2022/?call-for-industrial-track) Industry track
