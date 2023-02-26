@@ -18,6 +18,7 @@
 12. [Execution plan stitching](https://patents.google.com/patent/US1081020B2/en) US Patent 10,810,202
 13. [Database tuning and performance verification using cloned database](https://patents.google.com/patent/US11182360B2/en) US Patent 11,182,360
 14. [Leveraging query executions to improve index recommendations](https://patents.google.com/patent/US11138266B2/en) US Patent 11,138,266
+15. [Adaptive querying of time-series data over tiered storage](https://patents.google.com/patent/US11461347B1/en) US Patent 11,461,347
 
 ## Filed
 
