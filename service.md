@@ -3,7 +3,11 @@
 # Professional Service
 
 ## Conference/Workshop Organization
-* [ACM International Conference on Management of Data](https://2023.sigmod.org/) (SIGMOD) 2023, General co-chair.
+* [Proc. of VLDB v19/VLDB Conference 2026](https://www.vldb.org/pvldb/volumes/19/review-board) Associate Editor.
+* [International Conference on Data Engineering](https://icde2026.github.io/pc-chairs.html) Area Chair.
+* [ACM International Conference on Management of Data](https://2026.sigmod.org/org_conference_officers.shtml) (SIGMOD) 2026, Demo track co-chair.
+* [Proc. of VLDB v18/VLDB Conference 2025](https://www.vldb.org/pvldb/volumes/18/review-board) Associate Editor.
+* [ACM International Conference on Management of Data](https://2023.sigmod.org/org_conference_officers.shtml) (SIGMOD) 2023, General co-chair.
 * [Workshop on Cloud Data Management](http://www.cs.sdu.edu.cn/CloudDM2015/) (CloudDM) 2015, co-chair.
 * [21st International Conference on Management of Data](http://gator3080.hostgator.com/~sigdata/comad2016/) (COMAD) 2016, Industry Chair.
 * International Conference on Information and Knowledge Management (CIKM) 2017 Senior PC.
@@ -14,8 +18,17 @@
 
 ## Program Committees
 
+### 2026
+* [CIDR 2026](https://www.cidrdb.org/cidr2026/)
+
+### 2025
+* [CIDR 2025](https://www.cidrdb.org/cidr2025/index.html)
+* [SIGMOD 2025](https://2025.sigmod.org/org_industrial_pc.shtml) Industry track
+* [VLDB 2025](https://vldb.org/2025/?call-for-industrial-track) Industry track
+
 ### 2024
 * [SIGMOD 2024](https://2024.sigmod.org/org_sigmod_pc.shtml) Research track
+* [VLDB 2024](https://vldb.org/2024/?call-for-industrial-track) Industry track
 
 ### 2023
 * [VLDB 2023](http://vldb.org/pvldb/volumes/16/review-board) Research track
