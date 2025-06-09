@@ -3,15 +3,15 @@
 # Professional Service
 
 ## Conference/Workshop Organization
-* [Proc. of VLDB v19/VLDB Conference 2026](https://www.vldb.org/pvldb/volumes/19/review-board) Associate Editor.
-* [International Conference on Data Engineering](https://icde2026.github.io/pc-chairs.html) Area Chair.
-* [ACM International Conference on Management of Data](https://2026.sigmod.org/org_conference_officers.shtml) (SIGMOD) 2026, Demo track co-chair.
-* [Proc. of VLDB v18/VLDB Conference 2025](https://www.vldb.org/pvldb/volumes/18/review-board) Associate Editor.
-* [ACM International Conference on Management of Data](https://2023.sigmod.org/org_conference_officers.shtml) (SIGMOD) 2023, General co-chair.
-* [Workshop on Cloud Data Management](http://www.cs.sdu.edu.cn/CloudDM2015/) (CloudDM) 2015, co-chair.
-* [21st International Conference on Management of Data](http://gator3080.hostgator.com/~sigdata/comad2016/) (COMAD) 2016, Industry Chair.
-* International Conference on Information and Knowledge Management (CIKM) 2017 Senior PC.
+* [Proc. of VLDB v19/VLDB Conference 2026](https://www.vldb.org/pvldb/volumes/19/review-board) **Associate Editor**.
+* [International Conference on Data Engineering](https://icde2026.github.io/pc-chairs.html) (ICDE) 2026, **Area Chair**.
+* [ACM International Conference on Management of Data](https://2026.sigmod.org/org_conference_officers.shtml) (SIGMOD) 2026, **Demo track co-chair**.
+* [Proc. of VLDB v18/VLDB Conference 2025](https://www.vldb.org/pvldb/volumes/18/review-board) **Associate Editor**.
+* [ACM International Conference on Management of Data](https://2023.sigmod.org/org_conference_officers.shtml) (SIGMOD) 2023, **General co-chair**.
 * [Northwest Database Society Annual Meeting](https://sites.google.com/view/pnw-db-society-event/home) (NWDS) 2020, co-chair.
+* International Conference on Information and Knowledge Management (CIKM) 2017 Senior PC.
+* [21st International Conference on Management of Data](http://gator3080.hostgator.com/~sigdata/comad2016/) (COMAD) 2016, Industry Chair.
+* [Workshop on Cloud Data Management](http://www.cs.sdu.edu.cn/CloudDM2015/) (CloudDM) 2015, co-chair.
 
 ## Journal Editorial Boards
 * Springer International Journal of [Distributed and Parallel Databases](http://www.springer.com/computer/database+management+&+information+retrieval/journal/10619?detailsPage=editorialBoard), Associate Editor
