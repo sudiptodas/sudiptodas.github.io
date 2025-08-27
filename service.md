@@ -3,6 +3,7 @@
 # Professional Service
 
 ## Conference/Workshop Organization
+* [ACM Internaltional Conference on Management of Data](https://2027.sigmod.org/org_sigmod_pc.shtml) (SIGMOD) 2027, **Associate Editor**. 
 * [Proc. of VLDB v19/VLDB Conference 2026](https://www.vldb.org/pvldb/volumes/19/review-board) **Associate Editor**.
 * [International Conference on Data Engineering](https://icde2026.github.io/pc-chairs.html) (ICDE) 2026, **Area Chair**.
 * [ACM International Conference on Management of Data](https://2026.sigmod.org/org_conference_officers.shtml) (SIGMOD) 2026, **Demo track co-chair**.
