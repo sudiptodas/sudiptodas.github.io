@@ -5,6 +5,12 @@
 **Full list of publications available at:** 
 [DBLP](https://dblp.uni-trier.de/pers/hd/d/Das:Sudipto)|[Google Scholar](https://scholar.google.com/citations?user=LKgo-jcAAAAJ&hl=en). 
 
+## 2024
+* Pankaj Arora, Surajit Chaudhuri, Sudipto Das, Junfeng Dong, Cyril George, Ajay Kalhan, Arnd Christian König, Willis Lang, Changsong Li, Feng Li, Jiaqi Liu, Lukas M. Maas, Akshay Mata, Ishai Menache, Justin Moeller, Vivek R. Narasayya, Matthaios Olma, Morgan Oslake, Elnaz Rezai, Yi Shan, Manoj Syamala, Shize Xu, Vasileios Zois: [**Flexible Resource Allocation for Relational Database-as-a-Service**](https://www.vldb.org/pvldb/vol16/p4202-narasayya.pdf) Proc. VLDB Endow. 16(13): 4202-4215 (2023).
+
+## 2023
+* Sudipto Das, Ippokratis Pandis, K. Selçuk Candan, Sihem Amer-Yahia: [**Companion of the 2023 International Conference on Management of Data**](https://doi.org/10.1145/3555041), SIGMOD/PODS 2023, Seattle, WA, USA, June 18-23, 2023.
+
 ## 2020
 
 * Lin Ma, Bailu Ding, Sudipto Das, Adith Swaminathan: [**Active Learning for ML Enhanced Database Systems**](https://doi.org/10.1145/3318464.3389768) **SIGMOD** Conference 2020.
