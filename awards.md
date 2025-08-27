@@ -2,6 +2,7 @@
 
 # Awards and Recognition
 
+* 2024 IEEE MDM Test of Time Award for the paper ["Shoji Nishimura, Sudipto Das, Divyakant Agrawal, Amr El Abbadi. MD-HBase: A scalable multi-dimensional data infrastructure for location aware services, IEEE MDM 2011."](https://ieeexplore.ieee.org/document/6068416). [Award citation](https://www.computer.org/csdl/proceedings-article/mdm/2024/745500z023/1YEw4AN8Yw0): "The paper broke new ground by extending open-source Big Data systems to support spatial and spatio-temporal queries"
 * Distinguished PC Member, ACM SIGMOD 2019.
 * Distinguished PC Member, ACM SIGMOD 2018.
 * Distinguished PC Member, ACM SIGMOD 2017.
