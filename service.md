@@ -3,6 +3,7 @@
 # Professional Service
 
 ## Conference/Workshop Organization
+* [Proc. of VLDB v20/VLDB Conference 2027](https://www.vldb.org/2027/officers.html) **Associate Editor**.
 * [ACM Internaltional Conference on Management of Data](https://2027.sigmod.org/org_sigmod_pc.shtml) (SIGMOD) 2027, **Associate Editor**. 
 * [Proc. of VLDB v19/VLDB Conference 2026](https://www.vldb.org/pvldb/volumes/19/review-board) **Associate Editor**.
 * [International Conference on Data Engineering](https://icde2026.github.io/pc-chairs.html) (ICDE) 2026, **Area Chair**.
@@ -21,6 +22,7 @@
 
 ### 2026
 * [CIDR 2026](https://www.cidrdb.org/cidr2026/)
+* [VLDB 2026](https://www.vldb.org/2026/call-for-industrial-track.html) Industry track
 
 ### 2025
 * [CIDR 2025](https://www.cidrdb.org/cidr2025/index.html)
